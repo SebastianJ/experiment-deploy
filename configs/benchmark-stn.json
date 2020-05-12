@@ -1,5 +1,5 @@
 {
-  "description": "aws 20 nodes, 2 shards",
+  "description": "aws 60 nodes, 2 shards",
   "client": {
     "num_vm": 0,
     "type": "m5a.large",
